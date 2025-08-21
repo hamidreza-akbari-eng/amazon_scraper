@@ -8,12 +8,11 @@ A Scrapy + Playwright project for extracting product data from Amazon.
 - Saves output to CSV or JSON.  
 
 ## Installation
-```bash
-git clone https://github.com/hamidreza-akbari-eng/amazon-scraper.git
-cd amazon-scraper
-python -m venv venv
-source venv/bin/activate   
-pip install -r requirements.txt
+- git clone https://github.com/hamidreza-akbari-eng/amazon-scraper.git<br>
+- cd amazon-scraper<br>
+- python -m venv venv<br>
+- source venv/bin/activate  
+- pip install -r requirements.txt
 
 ## Usage
 Run the spiders in order:
